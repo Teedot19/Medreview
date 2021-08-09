@@ -1,2 +1,2 @@
 # Medreview
-A text mining project to predict medicines reviews from past users.
+A text mining project to predict medicine reviews from popular drugs.
